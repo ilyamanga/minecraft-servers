@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "name": "Основной сервер",
+      "ip": "play.minimallauncher.ru"
+    },
+    {
+      "name": "Резервный сервер",
+      "ip": "backup.minimallauncher.ru:25565"
+    }
+  ]
+}
