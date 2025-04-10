@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-      "name": "HeavenlyWeiner",
-      "ip": "mc.heavenlyweiner.ru"
+      "name": "Hypixel",
+      "ip": "mc.hypixel.net"
     },
   ]
 }
